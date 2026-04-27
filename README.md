@@ -4,4 +4,8 @@ Official implementation of HERO, accepted at CVPR 2026. HERO is a framework for 
 ## Paper ## 
 Tingting Han, Xinsong Tao, Yufei Yin, Min Tan, Sicheng Zhao, Zhou Yu, “HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos”, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.（Accepted）
 
+## Dataset ##
+https://github.com/hdu-txs/DataSets-of-TSGV_OV
+
 ## Code ## 
+Coming soon.
